@@ -1,0 +1,3 @@
+configuration_id,model_settings,training_rows,validation_rows,validation_MAE_kWh,validation_RMSE_kWh
+RF_200_depth12,"{'n_estimators': 200, 'max_depth': 12, 'min_samples_leaf': 2, 'max_features': 1.0}",1680,1680,5.496950207135495,7.1608139322412425
+RF_100_leaf2,"{'n_estimators': 100, 'max_depth': None, 'min_samples_leaf': 2, 'max_features': 1.0}",1680,1680,5.527182503541176,7.178355169517867

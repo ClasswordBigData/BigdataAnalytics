@@ -1,0 +1,12 @@
+﻿panel,metric,compared_rows,raw_only_keys,aggregate_only_keys,raw_duplicate_keys,aggregate_duplicate_keys,max_absolute_difference,tolerance,result
+hourly_regional,energy_kwh,1680,0,0,0,0,3.637978807091713e-12,0.001,PASS
+hourly_regional,reading_count,1680,0,0,0,0,0.0,0.0,PASS
+daily_network,energy_kwh,7,0,0,0,0,4.685716703534126e-09,0.001,PASS
+daily_network,reading_count,7,0,0,0,0,0.0,0.0,PASS
+weekly_network,energy_kwh,1,0,0,0,0,8.265487849712372e-09,0.001,PASS
+weekly_network,reading_count,1,0,0,0,0,0.0,0.0,PASS
+selected_meter,energy_kwh,7,0,0,0,0,0.0,0.001,PASS
+selected_meter,reading_count,7,0,0,0,0,0.0,0.0,PASS
+regional_completeness,planned_readings,10,0,0,0,0,0.0,0.0,PASS
+regional_completeness,reading_count,10,0,0,0,0,1364.0,0.0,FAIL
+regional_completeness,completeness_pct,10,0,0,0,0,0.5074404761904816,1e-06,FAIL

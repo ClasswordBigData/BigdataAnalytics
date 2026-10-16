@@ -1,0 +1,6 @@
+﻿panel,raw_rows,aggregate_rows,matched_rows,raw_only_keys,aggregate_only_keys,raw_duplicate_keys,aggregate_duplicate_keys,result
+hourly_regional,1680,1680,1680,0,0,0,0,PASS
+daily_network,7,7,7,0,0,0,0,PASS
+weekly_network,1,1,1,0,0,0,0,PASS
+selected_meter,7,7,7,0,0,0,0,PASS
+regional_completeness,10,10,10,0,0,0,0,FAIL

@@ -1,0 +1,4 @@
+﻿view_name,materialization_hypertable_name,table_bytes,index_bytes,toast_bytes,total_bytes,total_mb
+cagg_15m_region,_materialized_hypertable_6,2203648,2138112,40960,4382720,4.180
+cagg_day_meter,_materialized_hypertable_8,7798784,5398528,0,13197312,12.586
+cagg_hour_region,_materialized_hypertable_7,655360,622592,40960,1318912,1.258

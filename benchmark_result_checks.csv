@@ -1,0 +1,11 @@
+query,baseline_table,compared_table,results_match_within_0_001,baseline_rows,compared_rows
+Q1,energy_readings,energy_readings_3h,True,24,24
+Q1,energy_readings,energy_readings_week,True,24,24
+Q2,energy_readings,energy_readings_3h,True,10,10
+Q2,energy_readings,energy_readings_week,True,10,10
+Q3,energy_readings,energy_readings_3h,True,4000,4000
+Q3,energy_readings,energy_readings_week,True,4000,4000
+Q4,energy_readings,energy_readings_3h,True,1,1
+Q4,energy_readings,energy_readings_week,True,1,1
+Q5,energy_readings,energy_readings_3h,True,1,1
+Q5,energy_readings,energy_readings_week,True,1,1
